@@ -45,6 +45,10 @@ We **NEED** more cheat sheets! See [CONTRIBUTING.md](CONTRIBUTING.md) for how to
 
 ---
 
+![GitHub](https://img.shields.io/github/license/LuthandoCandlovu/ai-security-cheatsheets)
+![GitHub stars](https://img.shields.io/github/stars/LuthandoCandlovu/ai-security-cheatsheets)
+![GitHub forks](https://img.shields.io/github/forks/LuthandoCandlovu/ai-security-cheatsheets)
+
 ## ⭐ Support This Project
 **Star this repository** if you find these security guides valuable! This helps more developers discover essential AI security practices.
 
