@@ -40,7 +40,7 @@ We **NEED** more cheat sheets! See [CONTRIBUTING.md](CONTRIBUTING.md) for how to
 
 ## 📞 Connect
 - [GitHub Profile](https://github.com/LuthandoCandlovu)
-- [LinkedIn](https://linkedin.com/in/luthando-candlovu)
+- [LinkedIn](https://www.linkedin.com/in/luthando-candlovu-b59110324/)
 - [Email](mailto:luthando.candlovu30@gmail.com)
 
 ---
