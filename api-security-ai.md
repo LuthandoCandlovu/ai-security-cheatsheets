@@ -21,4 +21,3 @@
 # Basic API security check
 from security_checks import validate_api_request
 is_valid = validate_api_request(request)
-Contributions welcome!
